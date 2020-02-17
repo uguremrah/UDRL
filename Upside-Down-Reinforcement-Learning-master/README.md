@@ -1,3 +1,5 @@
+# Original Implementation : Sebastian Dittert [https://github.com/BY571/Upside-Down-Reinforcement-Learning]
+
 # Upside-Down-Reinforcement-Learning
 
 Upside-Down Reinforcement Learning (⅂ꓤ) implementation in Pytorch. <br/>
